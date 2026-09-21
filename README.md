@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang 👋, perkenalkan nama saya Ali Rahman</h1>
+<h1 align="center">Menjadi Intan Permata bagi Tuhan</h1>
 <h3 align="center">Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-rahman-bjb&label=Profile%20views&color=0e75b6&style=flat" alt="ali-rahman-bjb" /> </p>
