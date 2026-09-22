@@ -17,7 +17,7 @@
 <table align="center" border="0" style="border: none;">
   <tr>
     <td valign="top" width="50%" align="center">
-      <h3>📊 GitHub Statistics</h3>
+      <h3>GitHub Statistics</h3>
       <p align="center">
         <img src="https://github-stats-extended.vercel.app/api?username=ali-rahman-bjb&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="100%" />
       </p>
@@ -26,7 +26,7 @@
       </p>
     </td>
     <td valign="top" width="50%" align="center">
-      <h3>🛠️ Languages and Tools</h3>
+      <h3>Languages and Tools</h3>
       <p align="center">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -61,13 +61,13 @@
         </a>
       </p>
         <br />
-        <h3>📫 Connect with me</h3>
+        <h3>Connect with me</h3>
       <p align="center">
         <a href="https://linkedin.com/in/ali-rahman-bjb" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
         </a>
         <a href="mailto:pesan@alirahman.my.id" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+          <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="30" />
         </a>
         <a href="https://wa.me/18732800862" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
