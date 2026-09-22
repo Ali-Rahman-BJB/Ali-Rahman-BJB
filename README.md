@@ -59,10 +59,12 @@
   </a>
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-rahman-bjb&show_icons=true&locale=en&layout=compact&theme=dark" alt="ali-rahman-bjb" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ali-rahman-bjb&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-rahman-bjb&show_icons=true&locale=en&theme=dark" alt="ali-rahman-bjb" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-rahman-bjb&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
