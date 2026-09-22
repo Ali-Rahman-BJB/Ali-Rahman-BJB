@@ -61,10 +61,10 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ali-rahman-bjb&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ali-rahman-bjb&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-rahman-bjb&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ali-rahman-bjb&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
